@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/Ajil5467-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/ajil-t-u/)
 [![Gmail Badge](https://img.shields.io/badge/nehadasmk1999@gmail.com-30302f?style=flat&logo=Gmail&logoColor=white)](mailto:nehadasmk1999@gmail.com)
-<img src="https://komarev.com/ghpvc/?username=Neha123dasmk" alt="Neha das mk>
+ <img src="https://komarev.com/ghpvc/?username=Neha123dasmk" alt="Neha das mk>
 
 
 ## Hi there 👋,           
