@@ -6,11 +6,10 @@
 
 
 ## Hi there 👋,           
-##### I'm Neha das mk, currently a final year Computer Science undergrad from Government Engineering College Palakkad.
+##### I'm Neha das mk, currently Completed Computer Science undergrad from Government Engineering College Palakkad.
 ## 🧐 About
 - 🏄‍ full stack developer.
 - 🤝 I am looking forward to collaborate on projects.
-- 🌱 I’m currently learning Java.
 - 🤔 I’m looking for help with Machine Learning.
 - ⚡ Fun fact:- I don't use instagram ;)
 - 📫 How to reach me: mail me at [nehadasmk1999@gmail.com](mailto:nehadasmk1999@gmail.com)
