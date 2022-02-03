@@ -1,6 +1,5 @@
 # Neha das mk
 
-[![Linkedin Badge](https://img.shields.io/badge/Ajil5467-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/ajil-t-u/)
 [![Gmail Badge](https://img.shields.io/badge/nehadasmk1999@gmail.com-30302f?style=flat&logo=Gmail&logoColor=white)](mailto:nehadasmk1999@gmail.com)
 
 
