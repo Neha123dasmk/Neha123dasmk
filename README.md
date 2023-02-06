@@ -5,12 +5,14 @@
 
 
 ## Hi there 👋,           
-##### I'm Neha das mk, currently Completed Computer Science undergrad from Government Engineering College Palakkad.
+##### I'm Neha das mk,Currently working as a developer for IoT devices. 
 ## 🧐 About
+  Hello,I'm highly passionate software developer with a strong focus on learning new trends in technology. 
+  Current working as a developer for IoT devices and driven to stay current with the latest advancements in data science and machine learning. 
+  Passionate about expanding my knowledge and skills in these areas, and always seeking out new and exciting opportunities for growth.
 - 🏄‍ full stack developer.
 - 🤝 I am looking forward to collaborate on projects.
 - 🤔 I’m looking for help with Machine Learning.
-- ⚡ Fun fact:- I don't use instagram ;)
 - 📫 How to reach me: mail me at [nehadasmk1999@gmail.com](mailto:nehadasmk1999@gmail.com)
 ---
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Neha123dasmk&show_icons=true&theme=merko)  
